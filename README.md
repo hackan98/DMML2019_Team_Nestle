@@ -1,5 +1,6 @@
 # Project Team Nestlé
 Data Mining and Machine Learning Course 2019 - Master of Information Systems - HEC Lausanne
+
 Professor Michalis Vlachos
 
 ### Team Members
