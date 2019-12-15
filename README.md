@@ -35,4 +35,4 @@ the world of tomorrow.
 
 ## Instructions
 
-Run `HappinessProjectNestle.ipynb` in Jupyter or Google Colab to get started. 
+Run `Data_mining,_Project_group_Nestle.ipynb` in Jupyter or Google Colab to get started. 
