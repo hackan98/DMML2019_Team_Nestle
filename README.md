@@ -36,3 +36,9 @@ the world of tomorrow.
 ## Instructions
 
 Run `Data_mining,_Project_group_Nestle.ipynb` in Jupyter or Google Colab to get started. 
+
+## Presentation 
+[https://prezi.com/view/GrkIBBolick9ZKAUttHU/](https://)
+
+## Video 
+[https://youtu.be/5cS7xyp1IrY](https://)
